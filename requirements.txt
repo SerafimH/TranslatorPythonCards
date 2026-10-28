@@ -1,0 +1,7 @@
+mss
+Pillow>=11.0.0
+deep-translator
+winocr; sys_platform == "win32"
+pytesseract
+paddlepaddle
+paddleocr
